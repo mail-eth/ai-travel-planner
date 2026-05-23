@@ -1,0 +1,16 @@
+{
+  "name": "ai-travel-planner",
+  "version": "1.0.0",
+  "description": "Smart travel itinerary generator using Xiaomi MiMo based on interests and budget",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ai",
+    "xiaomi",
+    "mimo"
+  ],
+  "author": "mail-eth",
+  "license": "MIT"
+}
