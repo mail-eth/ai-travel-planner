@@ -7,7 +7,6 @@ Smart travel itinerary generator using Xiaomi MiMo based on interests and budget
 - Powered by Xiaomi MiMo API
 - Simple and intuitive interface
 - Real-time processing
-- Token consumption: 300K tokens/day
 
 ## 🚀 Quick Start
 
